@@ -2,6 +2,7 @@ Hello, I’m Chandler.
 I am a Data Analytics student focused on building dashboards, analyzing data, and developing software systems that transform raw data into actionable insights.
 
 **Technical Skills**
+
 Python
 SQL
 Power BI
